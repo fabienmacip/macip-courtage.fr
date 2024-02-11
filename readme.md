@@ -1,4 +1,6 @@
-# Site vitrine de mon activité de courtage en crédits & assurances.
+# Projet
+
+Site vitrine de mon activité de courtage en crédits & assurances.
 
 # Architecture
 
