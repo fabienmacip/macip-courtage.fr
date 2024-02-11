@@ -1,0 +1,138 @@
+#contact-horaires-div h1 
+{
+  margin: 1rem auto;
+  text-align: center;
+}
+
+#contact-horaires p,
+#contact-coordonnees p,
+#contact-map p {
+    background-color: #c7c7c76b;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 500px;
+    max-width: 96%;
+    border: 1px solid black;
+    box-shadow: 2px 8px 12px rgba(0, 0, 0, 0.2);
+    font-size: 1.2rem;
+    border-radius: 7px;
+}
+
+.contact-boxes {
+  width: 98%;
+  max-width: 98%;
+  padding: 1rem;
+  /* margin: 0 1rem; */
+  text-align: center;
+}
+
+.contact-boxes h2 {
+  font-size: 2rem;
+  color: var(--main-color-dark);
+  text-decoration: underline;
+  text-decoration-color: var(--main-color-main);
+  -moz-text-decoration-color: var(--main-color-main);
+  text-underline-offset: 10px;
+  text-decoration-thickness: 2px;
+  margin-bottom: 2.5rem;
+}
+
+#contact-reseaux-sociaux-facebook {
+  font-size: 3rem;
+  background-color: #3578E5;
+  width: 96%;
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+#contact-reseaux-sociaux-facebook a {
+  color: var(--main-color-main);
+}
+
+#contact-reseaux-sociaux-facebook a:hover {
+  color: var(--main-color-dark);
+  text-decoration: underline;
+  text-decoration-color : var(--main-color-main);
+  -moz-text-decoration-color: var(--main-color-main);
+}
+
+#facebook-iframe {
+  max-width: 96%;
+}
+
+#instagram-widget {
+  width: 705px;
+  max-width: 95%;
+  border: 1px solid black;
+}
+
+#googlemap {
+  width: 90vw;
+  height: 45vw;
+  margin: 0 auto;
+}
+
+.display-on-little-screen {
+  display: none;
+}
+
+@media screen and (max-width : 560px) {
+  #contact-horaires p,
+  #contact-coordonnees p,
+  #contact-map p {
+      padding: 1rem;
+      margin: 2rem auto;
+      max-width: 96%;
+  }
+}
+
+@media screen and (max-width : 560px) {
+  #contact-horaires p,
+  #contact-coordonnees p,
+  #contact-map p {
+      padding: 0.5rem;
+      margin: 2rem auto;
+  }
+
+  .display-on-little-screen {
+    display: block;
+  }
+  
+  .hide-on-little-screen {
+    display: none;
+  }
+}
+
+@media screen and (max-width : 420px) {
+  .contact-boxes h2 {
+    font-size: 1.5rem;
+  }
+
+  #contact-horaires p,
+  #contact-coordonnees p,
+  #contact-map p {
+      font-size: 1rem;
+  }
+
+  #contact-reseaux-sociaux-facebook {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width : 320px) {
+  #contact-horaires p,
+  #contact-coordonnees p,
+  #contact-map p {
+      font-size: 0.8rem;
+  }
+
+  #contact-reseaux-sociaux-facebook {
+    font-size: 1.5rem;
+  }
+}
+
