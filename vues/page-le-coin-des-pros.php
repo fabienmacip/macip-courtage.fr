@@ -28,7 +28,7 @@
       <div class="collaboration-card-text">
         Possibilit&eacute;, via des conditions de rachat de pr&ecirc;t avantageuses, de faire passer 
         vos clients dits "&eacute;cart&eacute;s" en clients dits "&eacute;quip&eacute;s", et donc en 
-        capacit&eacute; d'&eacute;pargner &agrave; nouveau.<br><br>
+        capacit&eacute; d'&eacute;pargner &agrave; nouveau.<br><br>Sans demande de domiciliation bancaire.<br><br>
         Ce qui vous permet de limiter le nombre de clients &agrave; risques de d&eacute;couvert.<br>
         Et &eacute;galement d'accepter de nouveaux clients (qui n'auraient pas &eacute;t&eacute; finan&ccedil;ables 
         par votre structure) et faire de "l'&eacute;quipage".
@@ -66,9 +66,9 @@
         Vendeur - Artisan
       </div>
       <div class="collaboration-card-text">
-        Possbilit&eacute;, via le regroupement de cr&eacute;dits et/ou le pr&ecirc;t hypoth&eacute;caire, 
+        Possibilit&eacute;, via le regroupement de cr&eacute;dits et/ou le pr&ecirc;t hypoth&eacute;caire, 
         de permetttre &agrave; votre client de financer les travaux/achats pour lesquels il vous a sollicit&eacute;.<br><br>
-        Ce qui vous permet de r&eacute;liser votre chantier / votre vente.
+        Ce qui vous permet de r&eacute;aliser votre chantier / votre vente.
       </div>
       </div>
 
