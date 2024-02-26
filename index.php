@@ -19,6 +19,23 @@ if (isset($_GET['page']) && 'mentions-legales' === $_GET['page']) {
     require_once('vues/layout.php');
 }
 
+// PARRAINAGE
+elseif (isset($_GET['page']) && 'parrainage' === $_GET['page']) {
+    ob_start();
+    require_once('vues/page-parrainage.php');
+    $contenu = ob_get_clean();
+    require_once('vues/layout.php');
+}
+
+// LE COIN DES PROS
+elseif (isset($_GET['page']) && 'le-coin-des-pros' === $_GET['page']) {
+    ob_start();
+    require_once('vues/page-le-coin-des-pros.php');
+    $contenu = ob_get_clean();
+    require_once('vues/layout.php');
+}
+
+
 
 // TEMOIGNAGES et/ou PARRAINAGE
 /* elseif (isset($_GET['page']) && 'temoignages' === $_GET['page']) {

@@ -1,0 +1,42 @@
+#liste-collaborations {
+  width: 98%;
+  max-width: 1300px;
+
+  margin: 2rem auto;
+
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.collaboration-card {
+  box-shadow: 2px 8px 12px rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--main-color-main);
+  min-width: 150px;
+  width: 600px;
+  max-width: 100%;
+  min-height: 300px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+}
+
+.collaboration-card-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--main-color-dark);
+  color: var(--main-color-main);
+  font-size: 1.8rem;
+  padding: 1rem;
+  min-height: 100px;
+  border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+}
+
+.collaboration-card-text {
+  padding: 1rem;
+  text-align: left;
+}

@@ -19,7 +19,7 @@ ob_start();
       <h2 id="accueil-mcf-title">Bienvenue chez M.C.F.</h2>
       <div id="accueil-mcf-subtitle">Macip Conseils & Finances</div>
   
-      <div id="image-accueil-text">
+      <div class="p-haut-de-page">
         Bonjour,<br><br>
         si vous cherchez &agrave; obtenir un cr&eacute;dit ou modifier votre assurance emprunteur, vous &ecirc;tes au bon endroit.<br><br>
         Je suis mandataire de <b>courtier en cr&eacute;dits et en assurances</b>.<br><br>
@@ -27,6 +27,14 @@ ob_start();
         concernant votre <u>strat&eacute;gie d'investissement</u> et la <u>fiscalit&eacute; de l'immobilier</u>. Ce service est 
         gratuit et inclus dans toute &eacute;tude de dossier de financement ou d'assurance.<br><br>
         Je suis sp&eacute;cialis&eacute; en <b>regroupement de cr&eacute;dits</b> et en <b>pr&ecirc;t immobilier</b>.
+      </div>
+      <div class="p-haut-de-page box p-3">
+        Rappel des principales conditions que je peux proposer : <br>
+        <ul class="ul-fleches">
+          <li><u>Age en fin de pr&ecirc;t</u> jusqu'&agrave; <b>95 ans</b>, au lieu de 65-70 ans,</li>
+          <li><u>Dur&eacute;e du pr&ecirc;t</u> jusqu'&agrave; <b>15 ans</b> en conso / <b>35 ans</b> en immobilier, au lieu de 10 et 25 ans,</li>
+          <li><u>Taux d'endettement</u> maximum jusqu'&agrave; <b>45 %</b>, au lieu de 33 %.</li>
+        </ul>
       </div>
     </div>
 

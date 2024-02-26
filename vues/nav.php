@@ -13,6 +13,8 @@
             <ul id="nav-ul" class="navbar-nav me-auto mb-2 mb-lg-0">
 
                 <li class="nav-item"><a href="index.php?page=accueil" class="nav-link">Accueil</a></li>
+                <li class="nav-item"><a href="index.php?page=parrainage" class="nav-link">Parrainage - 300 €</a></li>
+                <li class="nav-item"><a href="index.php?page=le-coin-des-pros" class="nav-link">Le coin des pros</a></li>
                 
 <!--                 <li class="nav-item relative" id="nav-nos-references">
                     <a href="#" class="nav-link" id="nos-references-link">Nos r&eacute;f&eacute;rences</a>
@@ -43,15 +45,27 @@
             </ul>
 
             <div id="facebook-icon">
-                    <a href="https://www.facebook.com/profile.php?id=61555991037478" alt="m.c.f. sur facebook" target="_blank">
+                <a href="https://www.facebook.com/profile.php?id=61555991037478" alt="m.c.f. sur facebook" target="_blank">
+                    <img
+                    id="facebook-img"
+                    class="contacts-icon"
+                    src="img/icones/facebook2.svg"
+                    alt="facebook"
+                    >
+                </a>
+            </div>
+            
+            <div id="linkedin-icon">
+                    <a href="https://www.linkedin.com/in/macip-conseil-finance" alt="m.c.f. sur linkedin" target="_blank">
                         <img
-                            id="facebook-img"
+                            id="linkedin-img"
                             class="contacts-icon"
-                            src="img/icones/facebook2.svg"
-                            alt="facebook"
+                            src="img/icones/linkedin.png"
+                            alt="linkedin"
                         >
                     </a>
             </div>
+
             <!-- <div id="instagram-icon">
                     <a href="https://www.instagram.com/actiformcolombiers34/" alt="actiform sur instagram" target="_blank">
                         <img
