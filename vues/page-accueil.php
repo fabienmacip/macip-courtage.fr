@@ -39,7 +39,7 @@ ob_start();
     </div>
 
     <div id="accueil-activites" class="accueil-text-boxes">
-      <h2>7 solutions &agrave; votre disposition</h2>
+      <h2>8 solutions &agrave; votre disposition</h2>
       <p>
         <div id="liste-activites-mcf">
 
@@ -70,6 +70,27 @@ ob_start();
                 Si vous avez besoin d'informations avant d'investir, vous pouvez consulter mes blogs ici :<br>
                 => <a href="https://immo-cash-flow.com/" target="_blank">immo-cash-flow.com</a>,<br>
                 => <a href="https://appartement-rentable.com/" target="_blank">appartement-rentable.com</a>.
+              </p>
+            </div>
+          </div>
+
+          <div class="activite-card">
+            <div class="activite-title">Leasing immobilier</div>
+            <div class="activite-card-text">
+              <p>
+                Le <b>leasing immobilier</b> (Location avec option d'achat) vous permet de reporter 
+                de 12 mois l'acquisition de votre nouvelle R&eacute;sidence Principale, tout en l'occupant 
+                imm&eacute;diatement. Les "loyers" pay&eacute;s durant votre occupation sont <u>capitalis&eacute;s</u>
+                et serviront donc d'apport lorsque vous passerez &agrave; l'achat.<br>
+                Ce dispositif facilite l'acquisition de votre R&eacute;sidence Principale si vous êtes actuellement non finan&ccedil;able 
+                et que vous savez que vous le serez dans quelques mois. Il vous permet &eacute;galement 
+                de ne pas passer &agrave; c&ocirc;t&eacute; de la p&eacute;pite que vous avez trouv&eacute;e...<br>
+              </p>
+              <p>
+                C'est un dispositif <u>s&eacute;curis&eacute; et encadr&eacute; par la loi</u>, qui se fait devant notaire.<br>
+                Votre apport n&eacute;cessaire pour ce genre d'op&eacute;ration est d'<b>environ 5 % du prix 
+                du logement</b> que vous souhaitez acqu&eacute;rir. Sur ces 5 %, environ <u>la moiti&eacute; viennent 
+                augmenter votre apport</u>, le reste sont des frais de dossier et de notaire.
               </p>
             </div>
           </div>

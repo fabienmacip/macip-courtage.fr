@@ -14,3 +14,9 @@ JS / PHP
 
 JQuery
 
+Liens parrainage :
+https://www.indy.fr?promocode=REF_EI4PCO58
+https://www.homunity.com/fr/?affid=ZmF0YWJpZW5AZ21haWwuY29t
+https://app.bricks.co/sign-up/FABMAC49
+
+

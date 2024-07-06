@@ -31,9 +31,15 @@
     <div class="contact-boxes" id="contact-reseaux-sociaux">
         <h2>RESEAUX SOCIAUX</h2>
 
-        <div id="contact-reseaux-sociaux-facebook">
+        <div class="contact-reseaux-sociaux">
+          <a href="https://www.linkedin.com/in/macip-conseil-finance" target="_blank">LINKEDIN</a>
+        </div>
+
+        <div class="contact-reseaux-sociaux">
           <a href="https://www.facebook.com/profile.php?id=61555991037478" target="_blank">FACEBOOK</a>
         </div>
+
+
 
         <!--        Facebook<br>
            <iframe 
