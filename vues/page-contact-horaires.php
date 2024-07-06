@@ -34,7 +34,7 @@
         <div class="contact-reseaux-sociaux">
           <a href="https://www.linkedin.com/in/macip-conseil-finance" target="_blank">LINKEDIN</a>
         </div>
-
+        <br>
         <div class="contact-reseaux-sociaux">
           <a href="https://www.facebook.com/profile.php?id=61555991037478" target="_blank">FACEBOOK</a>
         </div>

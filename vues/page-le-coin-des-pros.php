@@ -26,12 +26,12 @@
         Conseiller bancaire - banquier
       </div>
       <div class="collaboration-card-text">
-        Possibilit&eacute;, via des conditions de rachat de pr&ecirc;t avantageuses, de faire passer 
+        Possibilit&eacute;, via des conditions de <b>rachat de pr&ecirc;t</b> avantageuses, de faire passer 
         vos clients dits "&eacute;cart&eacute;s" en clients dits "&eacute;quip&eacute;s", et donc en 
-        capacit&eacute; d'&eacute;pargner &agrave; nouveau.<br><br>Sans demande de domiciliation bancaire.<br><br>
+        <u>capacit&eacute; d'&eacute;pargner &agrave; nouveau</u>.<br><br>Sans demande de domiciliation bancaire.<br><br>
         Ce qui vous permet de limiter le nombre de clients &agrave; risques de d&eacute;couvert.<br>
         Et &eacute;galement d'accepter de nouveaux clients (qui n'auraient pas &eacute;t&eacute; finan&ccedil;ables 
-        par votre structure) et faire de "l'&eacute;quipage".
+        par votre structure) et <u>faire de "l'&eacute;quipage"</u>.
       </div>
     </div>
 
@@ -40,11 +40,11 @@
         Avocats / Notaires
       </div>
       <div class="collaboration-card-text">
-        Rachat de soulte (divorce ou succession).<br><br>
+        <b>Rachat de soulte</b> (divorce ou succession).<br><br>
         Via un pr&ecirc;t classique, mais &eacute;galement gr&acirc;ce au regroupement de cr&eacute;dits 
         et/ou au pr&ecirc;t hypoth&eacute;caire.<br><br>
-        Ce qui vous permet d'aider votre client &agrave; avancer dans ses projets et/ou 
-        d&eacute;bloquer une situation parfois inconfortable.
+        Ce qui vous permet d'<u>aider votre client &agrave; avancer dans ses projets</u> et/ou 
+        <u>d&eacute;bloquer une situation</u> parfois inconfortable.
       </div>
       </div>
 
@@ -53,11 +53,13 @@
         Agent immobilier
       </div>
       <div class="collaboration-card-text">
-        Possbilit&eacute;, via le regroupement de cr&eacute;dits et/ou le pr&ecirc;t hypoth&eacute;caire, 
-        de remettre votre client dans une meilleure situation financi&egrave;re et ainsi :<br>
+        Possibilit&eacute;, via le <b>regroupement de cr&eacute;dits</b> et/ou le <b>pr&ecirc;t hypoth&eacute;caire</b>, 
+        de remettre votre client dans une <u>meilleure situation financi&egrave;re</u> et ainsi :<br>
         - soit financer, par la m&ecirc;me occasion, sa nouvelle acquisition immobili&egrave;re,<br>
         - soit rendre votre client &agrave; nouveau finan&ccedil;able par sa propre banque.<br><br>
-        Ce qui vous permet de conclure la vente du bien immobilier par lequel votre client &eacute;tait int&eacute;ress&eacute;.
+        Ce qui vous permet de conclure la vente du bien immobilier par lequel votre client &eacute;tait int&eacute;ress&eacute;.<br><br>
+        Possibilit&eacute;, via le <b>Leasing Immobilier</b>, de <u>conclure une vente</u> pour une R&eacute;sidence Principale, 
+        m&ecirc;me si votre client n'est pas encore finan&ccedil;able (&agrave; condition qu'il le soit dans les 12 mois).
       </div>
       </div>
 
@@ -66,8 +68,8 @@
         Vendeur - Artisan
       </div>
       <div class="collaboration-card-text">
-        Possibilit&eacute;, via le regroupement de cr&eacute;dits et/ou le pr&ecirc;t hypoth&eacute;caire, 
-        de permetttre &agrave; votre client de financer les travaux/achats pour lesquels il vous a sollicit&eacute;.<br><br>
+        Possibilit&eacute;, via le <b>regroupement de cr&eacute;dits</b> et/ou le <b>pr&ecirc;t hypoth&eacute;caire</b>, 
+        de permetttre &agrave; votre client de <u>financer les travaux/achats</u> pour lesquels il vous a sollicit&eacute;.<br><br>
         Ce qui vous permet de r&eacute;aliser votre chantier / votre vente.
       </div>
       </div>
@@ -77,9 +79,9 @@
         C.G.P. - Conseiller en gestion de patrimoine
       </div>
       <div class="collaboration-card-text">
-        Possibilit&eacute; de financer toutes les parts de S.C.P.I. de France.<br> Et pas seulement 
+        Possibilit&eacute; de <b>financer toutes les parts de S.C.P.I.</b> de France.<br> Et pas seulement 
         celles incluses dans votre contrat avec votre structure.<br><br>
-        Ce qui vous permet de garder votre client tout en lui permettant de diversifier ses placements en S.C.P.I. .
+        Ce qui vous permet de <u>garder votre client</u> tout en lui permettant de diversifier ses placements en S.C.P.I. .
       </div>
     </div>
 
